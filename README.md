@@ -9,6 +9,5 @@ Custom Date Suggestions: Personalized ideas for dates based on user preferences.
 Real-time Chat: Built-in chat feature for communicating with potential date partners.
 Responsive Design: Optimized for various devices and screen sizes.
 ## To get started with the Asking You Out website, follow these steps:
-Clone the Repository
-git clone https://github.com/yourusername/asking-you-out.git
+Open the live demo [Clickhere]([https://pages.github.com/](https://openitsforyouu.netlify.app/)).
 
